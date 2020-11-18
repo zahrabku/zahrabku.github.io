@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /gallery/
-title: Gallery
+title: I'm interested in photography.Here you can see my shots.wish you enjoy!
 tags: [gallery]
 modified: 9-14-2019
 comments: false
