@@ -9,29 +9,20 @@ comments: false
 ---
 
 
-|           | **Current**                    |
+|           | **Current**                    |     
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2020|Fall  | **Computer Architect** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|2020|Fall  | **Data Structures** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
+|2020|Fall  | **Computer Lab** |
+|----|------|--------------------------------|
+|2020|fall  |**<a href="https://quera.ir/college/land/college/6092/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8-(Front-End)">Frontend Developement</a>**
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
+|2020|summer|**<a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a>**
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
-|----|------|--------------------------------|
-|2019|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
-|----|------|--------------------------------|
-|2018|Fall  | **<a href="/ds97/">Data Structures</a>**            |
-|----|------|--------------------------------|
-|2018|Fall  | **Advanced Programming - C#** |
-|----|------|--------------------------------------------|
-|2018|Fall  | **Natural Language Processing (Graduate)** |
-|----|------|--------------------------------------------|
-|2018|Spring| **Advanced Programming - C#**             |
-|----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2019|fall  |**Advanced Programming - C#**  
+
