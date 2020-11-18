@@ -3,21 +3,18 @@ layout: posts
 title: My new picture
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## Hello WORLD!
 
-[my favorite website](http://www.google.com)
+hey there!
+I'm zahra and I'm happy to write my very first post of my website.
+I'm a computer student at IUST.I have studied Architecture for one year and I didn't find myself interested.
+so I switched to CE and I'm much more happier in here :)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+
+Hope you have a good time visiting my website!
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
 
 ---
-**Test**: This is atest
