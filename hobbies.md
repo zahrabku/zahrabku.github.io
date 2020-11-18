@@ -5,7 +5,7 @@ permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
 modified: 9-14-2019
-comments: false
+comments: true
 ---
 
 
@@ -13,5 +13,6 @@ comments: false
 * Hiking
 * Travel
 * Cooking
+
 
 
