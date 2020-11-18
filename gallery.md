@@ -2,12 +2,12 @@
 layout: single
 author_profile: true
 permalink: /gallery/
-title: I'm interested in photography.
-Here you can see my shots.
+title: My Gallery
 wish you enjoy!
 tags: [gallery]
 modified: 9-14-2019
 comments: false
+{% include gallery caption="I'm interested in photography.Here you can see my shots." %}
 gallery:
   - url: /assets/images/Newfolder/1.jpg
     image_path: /assets/images/Newfolder/1.jpg
@@ -31,5 +31,5 @@ gallery:
   #   title: "Image 5 title caption"    
 ---
 
-<!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
+
 
