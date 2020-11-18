@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 permalink: /gallery/
 title: My Gallery
-wish you enjoy!
 tags: [gallery]
 modified: 9-14-2019
 comments: false
@@ -30,7 +29,7 @@ gallery:
   #   alt: "placeholder image 5"
   #   title: "Image 5 title caption"    
 ---
-{% include gallery caption="I'm interested in photography.Here you can see my shots." %}
+{% include gallery caption="I'm interested in photography.Here you can see my shots.wish you enjoy!." %}
 
 
 
