@@ -9,9 +9,9 @@ comments: false
 ---
 
 
-* [Photography]
-* [Hiking]
-* [Travel]
-* [Cooking]
+* Photography
+* Hiking
+* Travel
+* Cooking
 
 
