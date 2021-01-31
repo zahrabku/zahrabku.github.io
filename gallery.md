@@ -19,6 +19,10 @@ gallery:
     image_path: /assets/images/Newfolder/3.jpG
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
+  - url: /assets/images/ppp.jpeg
+    image_path: /assets/images/ppp.jpeg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption" 
   # - url: /assets/images/4.jpg
   #   image_path: /assets/images/4.jpg
   #   alt: "placeholder image 4"
