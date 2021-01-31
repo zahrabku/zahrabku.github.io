@@ -11,7 +11,7 @@ title: My Hackathon Project
 
 * [My Project](http://96551056.pythonanywhere.com/)
 
-![alt text](../assets/images/Screenshot(52)1.png "project Picture")
+![alt text](../assets/images/Screenshot(52)1.jpg "project Picture")
 
 
 
