@@ -1,11 +1,7 @@
 ---
 layout: posts
 title: My Hackathon Project
-gallery:
-  - url: /assets/images/Screenshot (52).png
-    image_path: /assets/images/Screenshot (52).png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+
 ---
 
 ## Salam!
